@@ -4,7 +4,7 @@ import '../Styles/navbar.css'; // Adjust the path as needed
 
 function Nav() {
   const openPDF = () => {
-    window.open('/BRYAN RESUME.pdf', '_blank'); // Adjust the path to your PDF file
+    window.open('/BRYANRESUME.pdf', '_blank'); // Adjust the path to your PDF file
   };
 
   return (

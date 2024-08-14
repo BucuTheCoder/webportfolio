@@ -3,7 +3,7 @@ import React from 'react';
 
 function Footer() {
   const openPDF = () => {
-    window.open('/BRYAN RESUME.pdf', '_blank'); // Adjust the path to your PDF file
+    window.open('/BRYANRESUME.pdf', '_blank'); // Adjust the path to your PDF file
   };
   return (
     <footer className="bg-gray-800 text-white py-6">

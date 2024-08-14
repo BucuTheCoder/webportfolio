@@ -61,7 +61,7 @@ function About() {
           ABOUT <span>ME</span>
         </h2>
         <p id="text" className={`text-white poppins-extralight-italic ${isVisible ? 'animate__animated animate__fadeIn animate__delay-2s' : ''}`}>
-          Aspiring Software Developer passionate about crafting web applications that are both functional and
+          HI!!Aspiring Software Developer passionate about crafting web applications that are both functional and
           visually appealing. Eager to learn and grow, I'm always looking to explore innovative approaches and develop my skills.
           Feel free to reach out—I'm excited about new opportunities and challenges!
         </p>

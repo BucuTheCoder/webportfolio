@@ -1,0 +1,99 @@
+#typing{
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.nolayout-container {
+  display: flex;
+  align-items: center; /* Aligns items vertically centered */
+  padding: 20px;
+}
+
+.layout-container {
+    display: flex;
+    align-items: center; /* Aligns items vertically centered */
+    padding: 20px;
+    border: 1px solid #ccc; /* Optional: adds a border around the container */
+  }
+  
+  .image {
+    max-width: 500px; /* Adjust the max-width as needed */
+    height: 350px; /* Maintains the aspect ratio */
+    margin-right: 20px; /* Adds space between image and text */
+    margin-left: 20px;
+  }
+
+  #imgcode{
+    max-width: 550px; /* Adjust the max-width as needed */
+    height: 550px; /* Maintains the aspect ratio */
+    margin-right: 20px; /* Adds space between image and text */
+    margin-left: 20px;
+    border-radius: 3px;
+    margin-top: 3%;
+    filter: sepia(100%) hue-rotate(200deg) saturate(75%);
+  }
+
+
+  .info {
+    flex: 1; /* Takes up remaining space */
+    font-size: 20px;
+  }
+  
+  #about{
+    text-align: center;
+    font-size: 30px;
+    color: #ccc;
+  }
+
+  #about span{
+    color:aqua;
+  }
+
+  #text{
+    color: #f0f0f0;
+    width: 90%;
+    font-size: 33px;
+    text-align: justify;
+    margin-top: 5%;
+    margin-left: 9%;
+    text-indent: 2%;
+  }
+
+  h2{
+    color:white;
+    margin: 5px 0; /* Adjust the margin as needed */
+    padding: 0; /* Remove default padding */
+  }
+
+
+#who{
+  font-size: 65px;
+  color: #f0f0f0;
+  text-align: center;
+  
+}
+
+#typing{
+  text-align: center;
+  font-size: 20px;
+  color: #f0f0f0;
+}
+
+#details{
+  color: #f0f0f0;
+  text-align: center;
+  width: 60%;
+  text-align: justify;
+  margin-left: 20%;
+  text-indent: 2%;
+}
+
+#details span{
+  color: aqua;
+}
+
+.name{
+  color: rgb(0, 251, 255);
+}
+
